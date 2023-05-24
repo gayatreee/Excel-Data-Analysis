@@ -1,7 +1,7 @@
 # Excel-Data-Analysis
 Data Analysis for Stores in Scotland using MS Excel
 
-**Data Files**: Contains 2 Data sets. 
+**Data Set**
 Sales Data - Date, Store Code, Department, Promotion	Sales (in pounds £'s)
 Store Data - Store Locations, Store Size for each store department
 
